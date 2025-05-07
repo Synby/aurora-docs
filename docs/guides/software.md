@@ -20,6 +20,8 @@ They are commonly used for two different scenarios:
 - Used as a fallback for Linux software that do not have a Flatpak available
 - Development boxes
 
+For an easy gui to manage Distrobox containers, use [Boxbuddy](https://github.com/Dvlv/BoxBuddyRS) (it's preinstalled!).
+
 ## `rpm-ostree`
 
 > **Note**: It is highly recommended to only use this as a last resort.
